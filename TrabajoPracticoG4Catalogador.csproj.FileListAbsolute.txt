@@ -1,0 +1,8 @@
+D:\archivos de la C\UTN TUP\programacion 3\TPI final\TrabajoPracticoG4Catalogador\TrabajoPracticoG4Catalogador\bin\Debug\TrabajoPracticoG4Catalogador.exe.config
+D:\archivos de la C\UTN TUP\programacion 3\TPI final\TrabajoPracticoG4Catalogador\TrabajoPracticoG4Catalogador\bin\Debug\TrabajoPracticoG4Catalogador.exe
+D:\archivos de la C\UTN TUP\programacion 3\TPI final\TrabajoPracticoG4Catalogador\TrabajoPracticoG4Catalogador\bin\Debug\TrabajoPracticoG4Catalogador.pdb
+D:\archivos de la C\UTN TUP\programacion 3\TPI final\TrabajoPracticoG4Catalogador\TrabajoPracticoG4Catalogador\obj\Debug\TrabajoPracticoG4Catalogador.csprojResolveAssemblyReference.cache
+D:\archivos de la C\UTN TUP\programacion 3\TPI final\TrabajoPracticoG4Catalogador\TrabajoPracticoG4Catalogador\obj\Debug\TrabajoPracticoG4Catalogador.MainForm.resources
+D:\archivos de la C\UTN TUP\programacion 3\TPI final\TrabajoPracticoG4Catalogador\TrabajoPracticoG4Catalogador\obj\Debug\TrabajoPracticoG4Catalogador.csproj.GenerateResource.Cache
+D:\archivos de la C\UTN TUP\programacion 3\TPI final\TrabajoPracticoG4Catalogador\TrabajoPracticoG4Catalogador\obj\Debug\TrabajoPracticoG4Catalogador.exe
+D:\archivos de la C\UTN TUP\programacion 3\TPI final\TrabajoPracticoG4Catalogador\TrabajoPracticoG4Catalogador\obj\Debug\TrabajoPracticoG4Catalogador.pdb
